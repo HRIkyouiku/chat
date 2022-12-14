@@ -24,5 +24,6 @@
   </div>
   <script src="{{ asset('/js/chat.js') }}"></script>
 </body>
+<!-- test -->
 
 </html>
